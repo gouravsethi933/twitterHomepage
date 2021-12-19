@@ -1,0 +1,8 @@
+.layout{
+    display:grid;
+    grid-template-columns: 275px auto 200px;
+    margin: 0 auto;
+}
+.layout__right-sidebar{
+    position: fixed;
+}
